@@ -1,0 +1,2 @@
+riscv64-unknown-elf-ar.exe qc ..\..\lib\libmm.a CMakeFiles/mm.dir/mem.c.obj CMakeFiles/mm.dir/tlsf/tlsf.c.obj CMakeFiles/mm.dir/tlsf/bflb_tlsf.c.obj
+riscv64-unknown-elf-ranlib.exe ..\..\lib\libmm.a
